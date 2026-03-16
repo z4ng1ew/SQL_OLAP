@@ -12,7 +12,6 @@ ORDER BY 1, 2;
 
 
 
-```sql
 SELECT
     prs.address,
     -- Адрес человека из таблицы person (через алиас prs).

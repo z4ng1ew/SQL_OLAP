@@ -16,7 +16,7 @@ ORDER BY 1;
 
 
 
-```sql
+
 SELECT
     pzr.name,
     -- Название пиццерии из справочника pizzeria (через алиас pzr).

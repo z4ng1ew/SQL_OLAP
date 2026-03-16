@@ -23,7 +23,7 @@ LIMIT 4;
 
 
 
-```sql
+
 SELECT
     prs.name,
     -- Выбираем имя человека из таблицы person (через алиас prs).

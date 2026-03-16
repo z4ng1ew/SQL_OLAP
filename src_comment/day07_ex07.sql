@@ -6,7 +6,7 @@ FROM pizzeria;
 
 
 
-```sql
+
 SELECT
     ROUND(AVG(rating), 4) AS global_rating
     -- AVG(rating) — вычисляет среднее арифметическое
